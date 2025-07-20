@@ -40,7 +40,7 @@
 <div align="right">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AC%B8%EC%84%9D-%EA%B9%80-40b858373/)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://blog.naver.com/nn-0_0-n)
+[![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/nn-0_0-n)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:comengiee852@naver.com)
 
 
