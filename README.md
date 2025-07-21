@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonstone0514&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-
-## 📫 연락처
-
 <div align="right">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AC%B8%EC%84%9D-%EA%B9%80-40b858373/)
@@ -44,13 +41,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:comengiee852@naver.com)
 
 
-</div>
 
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=moonstone0514&color=blueviolet)
-
-</div>
 
 ---
