@@ -22,7 +22,7 @@
 
 
 
-## 👨‍💻 저는 **스스로 끊임없이 배우고 성장하는** DevSecOps 엔지니어를 꿈꾸는 김문석입니다 👨‍💻  
+## 👨‍💻 **스스로 끊임없이 배우고 성장하는** DevSecOps 엔지니어를 꿈꾸는 김문석입니다 👨‍💻  
 💼 현재 학습 중인 기술: **Spring Boot**, **RESTful API**, **Database Optimization** 
 🌱 **클라우드 컴퓨팅**으로 한 걸음 더 나아가고자 합니다  
 📫 comengiee852@naver.com
