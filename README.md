@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Munseok+Kim&animation=fadeIn&height=150&align=center)
-
-
 ## 👋 Hi!
-자기소개
+
+저는 **클라우드 보안 전문가**를 꿈꾸며, 현재 **DevSecOps**를 준비하고 있습니다.  
+보안(Security), 개발(Development), 클라우드(Cloud), DevOps 등 다양한 경험을 통해 **폭넓은 시야와 종합적인 문제 해결 능력**을 쌓아왔습니다.  
+
+저의 최종 목표는 **클라우드 솔루션 아키텍트**로 성장하여,  
+안정성과 보안성을 동시에 갖춘 클라우드 인프라를 설계하고 운영하는 것입니다.  
+
+🚀 항상 배우고 실천하며, 더 나은 아키텍처를 고민하는 엔지니어가 되고자 합니다. 
+
+---
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:erin456852@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:erin90523@naver.com)
@@ -95,11 +101,14 @@
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **FiscalRadar** | <img src="https://github.com/moonstone0514/FiscalRadar/raw/main/docs/fiscalradar.png" width="200"/> | MySQL 파티셔닝 기반 재무 건전성 분석 시스템 <br>데이터 시각화 및 보고 자동화 | [🔗](https://github.com/moonstone0514/FiscalRadar) |
-| 2 | **기술 세미나 (3-Tier HA 아키텍처)** | <img src="https://github.com/moonstone0514/technical_seminar/raw/main/docs/seminar.png" width="200"/> | 3-Tier 기반 Presentation–Application–DB 계층 설계, <br>Keepalived·VRRP·Orchestrator를 통한 DB 장애 전환 구조 구현 | [🔗](https://github.com/moonstone0514/technical_seminar/blob/main/README.md) |
-| 3 | **CI/CD Gradle** | <img src="https://github.com/moonstone0514/CI-CD-Gradle/raw/main/docs/jenkins.png" width="200"/> | Jenkins를 활용한 Gradle 기반 CI/CD 파이프라인 <br>자동 빌드 및 배포 실습 | [🔗](https://github.com/moonstone0514/CI-CD-Gradle/tree/main) |
-| 4 | **K8s Ingress** | <img src="https://github.com/moonstone0514/k8s_ingress/raw/main/docs/ingress.png" width="200"/> | Kubernetes Ingress Controller를 활용한 <br>서비스 라우팅 및 트래픽 관리 실습 | [🔗](https://github.com/moonstone0514/k8s_ingress) |
-| 5 | **우리FISA <br>미니 프로젝트 모음** | <img src="https://github.com/moonstone0514/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png" width="200"/> | 우리FISA 클라우드 엔지니어링 과정에서 진행한 <br>미니 프로젝트와 학습 내용 모음 | [🔗](https://github.com/moonstone0514/mini_project) |
+| 1 | **FiscalRadar** | <img src="https://github.com/user-attachments/assets/9e27fe96-5678-437c-9621-9ed8afba0769" width="200"/> | MySQL 파티셔닝 기반 재무 건전성 분석 시스템 <br>데이터 시각화 및 보고 자동화 | [🔗](https://github.com/moonstone0514/FiscalRadar) |
+| 2 | **기술 세미나 (3-Tier HA 아키텍처)** | <img src="https://github.com/user-attachments/assets/195fe755-500f-4d08-8aa9-c4c5e46c099f" width="200"/> | 3-Tier 기반 Presentation–Application–DB 계층 설계 <br>Keepalived·VRRP·Orchestrator를 통한 DB 장애 전환 구조 구현 | [🔗](https://github.com/moonstone0514/technical_seminar/blob/main/README.md) |
+| 3 | **CI/CD Gradle** | <img src="https://github.com/user-attachments/assets/ef5bb2ac-f236-4134-a2b0-74cd6a5507b0" width="200"/> | Jenkins를 활용한 Gradle 기반 CI/CD 파이프라인 <br>자동 빌드 및 배포 실습 | [🔗](https://github.com/moonstone0514/CI-CD-Gradle/tree/main) |
+| 4 | **K8s Ingress** | <img src="https://github.com/user-attachments/assets/4c95aa6a-5ea5-4cfe-a088-5b602f007daa" width="200"/> | Kubernetes Ingress Controller를 활용한 <br>서비스 라우팅 및 트래픽 관리 실습 | [🔗](https://github.com/moonstone0514/k8s_ingress) |
+| 5 | **cloud_zero** | <img src="https://github.com/user-attachments/assets/cc4adb5a-c7b3-495c-b3d9-7b9258695a56" width="200"/> | 제로트러스트 기반 Kubernetes + Docker 보안 아키텍처 구현 <br>MFA, SSO, RBAC, IDS 등 보안 기능 포함 | [🔗](https://github.com/moonstone0514/cloud_zero) |
+| 6 | **우리FISA <br>미니 프로젝트 모음** | <img src="https://github.com/moonstone0514/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png" width="200"/> | 우리FISA 클라우드 엔지니어링 과정에서 진행한 <br>미니 프로젝트와 학습 내용 모음 | [🔗](https://github.com/moonstone0514/mini_project) |
+
+
  
 
 ---
