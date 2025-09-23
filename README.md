@@ -10,8 +10,9 @@
 
 ---
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:erin456852@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:erin90523@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:comengiee852.mk@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/nn-0_0-n)
+
 
 ### 🌟 Experience 🌟
 - 2020.03 ~ 2025.08 상명대학교 정보보안공학학부
