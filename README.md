@@ -14,7 +14,7 @@
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:erin90523@naver.com)
 
 ### 🌟 Experience 🌟
-- 2020.03 ~ 2025.08 홍익대학교 전자전기공학부
+- 2020.03 ~ 2025.08 상명대학교 정보보안공학학부
 - 2023.09 ~ 2024.08 인공지능 네트워크 보안 연구실  
 - 2025.07 ~         우리 FIS 클라우드 엔지니어링 5기
 ---
@@ -107,7 +107,6 @@
 | 4 | **K8s Ingress** | <img src="https://github.com/user-attachments/assets/4c95aa6a-5ea5-4cfe-a088-5b602f007daa" width="200"/> | Kubernetes Ingress Controller를 활용한 <br>서비스 라우팅 및 트래픽 관리 실습 | [🔗](https://github.com/moonstone0514/k8s_ingress) |
 | 5 | **cloud_zero** | <img src="https://github.com/user-attachments/assets/cc4adb5a-c7b3-495c-b3d9-7b9258695a56" width="200"/> | 제로트러스트 기반 Kubernetes + Docker 보안 아키텍처 구현 <br>MFA, SSO, RBAC, IDS 등 보안 기능 포함 | [🔗](https://github.com/moonstone0514/cloud_zero) |
 | 6 | **K8S Cluster** | <img src="https://github.com/user-attachments/assets/097fd6da-3726-4c64-8109-32f042b056b9" width="200"/> | Ubuntu 24.04 기반 멀티 노드 Kubernetes 클러스터 구축 <br>kubeadm, containerd, Calico CNI 적용 및 네트워크 설정 | [🔗](https://github.com/moonstone0514/K8S_Cluster) |
-| 7 | **우리FISA <br>미니 프로젝트 모음** | <img src="https://github.com/moonstone0514/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png" width="200"/> | 우리FISA 클라우드 엔지니어링 과정에서 진행한 <br>미니 프로젝트와 학습 내용 모음 | [🔗](https://github.com/moonstone0514/mini_project) |
 
 
  
